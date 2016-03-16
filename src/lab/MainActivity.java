@@ -14,8 +14,8 @@ import java.util.Random;
 
 public class MainActivity {
 	
-	final static String FILE_NAME1 = "/Users/Yanhan/Downloads/Study/Database/lab/sorted10000";
-	final static String FILE_NAME2 = "/Users/Yanhan/Downloads/Study/Database/lab/unsorted10000";	
+	final static String FILE_NAME1 = "/Users/Yanhan/Downloads/Study/Database/lab/sorted5000000";
+	final static String FILE_NAME2 = "/Users/Yanhan/Downloads/Study/Database/lab/unsorted5000000";	
 	final static String DATABASE_NAME = "sample_db";
 
 	static class BenchMark{
